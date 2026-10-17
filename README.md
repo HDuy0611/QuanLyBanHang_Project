@@ -2,7 +2,7 @@
 Học phần: Chuyên đề chuyên sâu PTPM 1 - Trường ĐH Nguyễn Tất Thành
 
 ## Thành viên nhóm:
-1. Nguyễn Hoàng Duy - [MSSV] (Nhóm trưởng)
+1. Nguyễn Hoàng Duy - 2400008459 (Nhóm trưởng)
 
 ## Hướng dẫn cài đặt & Chạy ứng dụng:
 - Bước 1: Clone kho lưu trữ: git clone <url>
